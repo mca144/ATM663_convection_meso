@@ -12,3 +12,5 @@
 **Hint: differentiate the mass equation by time, the momentum equations by space, and combine.** 
 
 # ANSWERS IN BOOK CHAPTER 1
+
+#trivial change
